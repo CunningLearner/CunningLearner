@@ -1,6 +1,6 @@
 # main text of home
 name: Himanshu Sahdev
-bio: A Man who travels the world eating noodles
+bio: A technological enthusiast, endeavouring to help the third world
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://CunningLearner.io
+url: https://CunningLearner.io/he_man
 #sergiokopplin.github.io/indigo
 # your url: https://USERNAME.github.io
 
