@@ -54,6 +54,11 @@ github: CunningLearner
 email: sahdev.himan@gmail.com
 
 authors:
+  himanshusahdev:
+    name: Himanshu Sahdev
+    bio: A technological enthusiast, endeavouring to help the third world
+    external-image: false
+    picture: assets/images/profile.jpg
   johndoe:
     name: John Doe
     bio: A Man who travels the world eating noodles
