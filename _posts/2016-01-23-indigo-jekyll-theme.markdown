@@ -1,21 +1,18 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: ":ramen: IoT Workspace Ecosystem"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+date: 2017-04-23 22:10
+tag: google home
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "This is an AI based voice recognition central controlling system with real time monitoring."
 category: project
 author: himanshusahdev
 externalLink: false
 ---
 
-#![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
-
-Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+IoT Workspace Ecosystem - [Demo](https://www.youtube.com/watch?v=0XQrmXWdsfg&feature=youtu.be). This is an AI based voice recognition central controlling system with real time monitoring.
 
 ---
 
