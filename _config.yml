@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://drive.google.com/file/d/1ea7b0LKxEFmu5snWAwr9TdVTHdjQESQ0/view?usp=sharing
 
-url: CunningLearner.github.io
+url: https://CunningLearner.github.io/CunningLearner
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
