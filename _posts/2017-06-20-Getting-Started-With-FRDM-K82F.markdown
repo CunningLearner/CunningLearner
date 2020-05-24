@@ -15,6 +15,21 @@ description: Start off with FRDM board
 
 ## Basic formatting
 
+Hey everyone! It’s very obvious that things, sometimes took time
+even in its initialization state, same occurs to me with this board.
+Today, by this writeup, I’ll show the steps involved in setting up the
+board and a kickstarter module to get started easily with latest
+updates now available.
+FRDM-K82F is based on ARM Cortex-M Cores (M4) and Kinetics
+Design Studio is used to upload the code into. Sign in to NXP.com to
+download the respective [KDS][1] found under product section and
+install the IDE.
+
+<img class="image" src="{{ site.url }}/assets/images/frdm/kinetics_IDE.JPG" alt="Alt Text">
+<figcaption class="caption">KDS IDE</figcaption>
+
+And that's how to do it.
+
 {% highlight html %}
 This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.
 {% endhighlight %}
@@ -89,13 +104,13 @@ There are six levels of headings. They correspond with the six levels of HTML he
 URLs can be made in a handful of ways:
 
 * A named link to [Mark It Down][3].
-* Another named link to [Mark It Down](https://google.com/)
-* Sometimes you just want a URL like <https://google.com/>.
+* Another named link to [Mark It Down](http://markitdown.net/)
+* Sometimes you just want a URL like <http://markitdown.net/>.
 
 {% highlight raw %}
 * A named link to [MarkItDown][3].
-* Another named link to [MarkItDown](https://google.com/)
-* Sometimes you just want a URL like <https://google.com/>.
+* Another named link to [MarkItDown](http://markitdown.net/)
+* Sometimes you just want a URL like <http://markitdown.net/>.
 {% endhighlight %}
 
 ---
@@ -119,7 +134,7 @@ Markdown can also contain images. I'll need to add something here sometime.
 ![Markdowm Image][/image/url]
 {% endhighlight %}
 
-![Markdowm Image][5]
+![Markdowm Image][6]
 
 *Figure Caption*?
 
@@ -128,7 +143,7 @@ Markdown can also contain images. I'll need to add something here sometime.
 <figcaption class="caption">Photo by John Doe</figcaption>
 {% endhighlight %}
 
-![Markdowm Image][5]
+![Markdowm Image][6]
 <figcaption class="caption">Photo by John Doe</figcaption>
 
 *Bigger Images*?
@@ -137,7 +152,7 @@ Markdown can also contain images. I'll need to add something here sometime.
 ![Markdowm Image][/image/url]{: class="bigger-image" }
 {% endhighlight %}
 
-![Markdowm Image][5]{: class="bigger-image" }
+![Markdowm Image][6]{: class="bigger-image" }
 
 ---
 
@@ -192,8 +207,17 @@ $(window).scroll(function() {
 });
 {% endhighlight %}
 
+<<<<<<< HEAD:_posts/2016-02-24-markdown-common-elements.markdown
+[1]: http://daringfireball.net/projects/markdown/
+[2]: http://www.fileformat.info/info/unicode/char/2163/index.htm
+[3]: http://www.markitdown.net/
+[4]: http://daringfireball.net/projects/markdown/basics
+[5]: http://daringfireball.net/projects/markdown/syntax
+[6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
+=======
 [1]: https://www.nxp.com/security/login?TARGET=https%3A%2F%2Fwww.nxp.com%2Fwebapp%2Fsecure%2Flogin.SAMLSecuredController.sp%3Faction%3DforwardToDestination
 [2]: https://www.fileformat.info/info/unicode/char/2163/index.htm
 [3]: https://daringfireball.net/projects/markdown/basics
 [4]: https://daringfireball.net/projects/markdown/syntax
 [5]: https://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
+>>>>>>> 14f4f048aa1350903ae3c41616bfbeee77a3e75b:_posts/2017-06-20-Getting-Started-With-FRDM-K82F.markdown
